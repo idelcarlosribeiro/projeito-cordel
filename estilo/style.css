@@ -39,6 +39,7 @@ header h1 {
 
 header > p {
     padding-bottom: 50px;
+    
 }
 
 section {
@@ -47,7 +48,7 @@ section {
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
-    font-size: 3.5vw;
+    font-size: 4vw;
 }
 
 section > p {
